@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25579
     wikipedia: http://en.wikipedia.org/wiki/Alan_E._Nourse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41565#Consignment
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2012-12-05'
 gutenberg_type: Text
